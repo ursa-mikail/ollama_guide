@@ -154,4 +154,4 @@ Add that line to your ~/.bashrc or ~/.zshrc and restart terminal.
 | Gemma      | `ollama pull gemma`           | From Google, for helpful output |
 | Phi        | `ollama pull phi`             | Lightweight and concise         |
 | Dolphin    | `ollama pull dolphin-mistral` | Instruction-tuned               |
-| Code LLaMA | `ollama pull codellama`       | Great for coding tasks          |
+| Code LLaMA | `ollama pull codellama`       | For coding tasks    		       |
